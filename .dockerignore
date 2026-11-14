@@ -1,0 +1,5 @@
+pgsql
+nginx/logs
+.git
+node_modules
+*.log

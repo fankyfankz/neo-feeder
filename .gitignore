@@ -1,0 +1,7 @@
+*.bak
+*.fed
+*.prf
+backups
+captcha_feeder
+logs
+pgsql
